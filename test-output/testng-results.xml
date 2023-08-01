@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-29T20:12:18 IST" name="Suite" finished-at="2023-07-29T20:12:36 IST" duration-ms="17450">
+    <groups>
+    </groups>
+    <test started-at="2023-07-29T20:12:18 IST" name="Test" finished-at="2023-07-29T20:12:36 IST" duration-ms="17450">
+      <class name="TestLayer.LoginPageTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestLayer.LoginPageTest@4659191b]" started-at="2023-07-29T20:12:18 IST" name="SetUp" finished-at="2023-07-29T20:12:29 IST" duration-ms="10775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="validateLoginPageFunctionality()[pri:0, instance:TestLayer.LoginPageTest@4659191b]" started-at="2023-07-29T20:12:29 IST" name="validateLoginPageFunctionality" finished-at="2023-07-29T20:12:31 IST" duration-ms="1393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginPageFunctionality -->
+      </class> <!-- TestLayer.LoginPageTest -->
+      <class name="TestLayer.swagLabPageTest">
+        <test-method signature="ValidateswagLabPageFunctionality()[pri:0, instance:TestLayer.swagLabPageTest@4efac082]" started-at="2023-07-29T20:12:31 IST" name="ValidateswagLabPageFunctionality" finished-at="2023-07-29T20:12:36 IST" duration-ms="5063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateswagLabPageFunctionality -->
+      </class> <!-- TestLayer.swagLabPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
